@@ -33,11 +33,3 @@ def piskvorky_1d():
     if podminka(herni_pole) == False: 
       hra_bezi = False
       
-
-
-
-
-#napsat funkci na nahrazeni podminky, aby se podminka v cyklu neopakovala
-#podminka(herni_pole)
-
-piskvorky_1d()
